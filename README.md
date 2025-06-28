@@ -43,11 +43,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshita-24&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=anshita-24&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshita-24&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Just the Big Ones — for Now
 
 | Project                                 | Tech Stack                                 | Description                                               |
 |-----------------------------------------|--------------------------------------------|-----------------------------------------------------------|
