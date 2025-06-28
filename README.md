@@ -45,7 +45,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshita-24&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anshita-24&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshita-24&theme=radical)
+
 
 
 ---
