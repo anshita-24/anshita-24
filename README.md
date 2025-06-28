@@ -1,10 +1,11 @@
 <!-- Typing SVG -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=100&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi there 👋%2C+I'm+Anshita!;👩‍💻Tech+Enthusiast+%26+Creative+Mind" 
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=100&color=0A66C2&center=true&vCenter=true&width=700&lines=Hey there 👋%2C+I'm+Anshita!;👩‍💻Tech+Enthusiast+%26+Creative+Mind" 
+    alt="Typing SVG" 
   />
 </h1>
+
 ---
 
 🎓 **3rd Year IT Student** at *Madhav Institute of Technology & Science (MITS), Gwalior*  
@@ -41,7 +42,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshita-24&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshita-24&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=anshita-24&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
