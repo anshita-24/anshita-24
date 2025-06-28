@@ -30,6 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-000000?style=for-the-badge&logo=leetcode)
@@ -39,11 +40,13 @@
 
 ### 📊 GitHub Stats & Visuals
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshita-24&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshita-24&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshita-24&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ---
 
