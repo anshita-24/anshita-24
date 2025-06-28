@@ -1,10 +1,11 @@
 <!-- Typing SVG -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=100&color=0A66C2&center=true&vCenter=true&width=700&lines=Hey there 👋%2C+I'm+Anshita!;👩‍💻Tech+Enthusiast+%26+Creative+Mind" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=100&color=0A66C2&center=true&vCenter=true&width=700&lines=Hey%20there%20%F0%9F%91%8B%2C%20I'm%20Anshita!;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBTech%20Enthusiast%20%26%20Creative%20Mind" 
     alt="Typing SVG" 
   />
 </h1>
+
 
 ---
 
