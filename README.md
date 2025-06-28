@@ -11,9 +11,9 @@
 
 🎓 **3rd Year IT Student** at *Madhav Institute of Technology & Science (MITS), Gwalior*  
 📈 **CGPA**: 9.4  
-💻 Passionate **MERN Stack Developer** | Curious **AI/ML Learner** | **DSA Enthusiast**
+💻 Passionate **MERN Stack Developer** | Curious **AI/ML Learner** | **DSA Enthusiast**<br/>
 🎤 Love public speaking & expressing through various forms of communication  
-🌱 Still learning, always building.
+💡 Still learning, always building.
 
 ---
 
