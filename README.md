@@ -40,10 +40,9 @@
 
 ### 📊 GitHub Stats & Visuals
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshita-24&show_icons=true&theme=radical&hide=c,cpp&include_all_commits=true&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshita-24&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshita-24&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshita-24&layout=compact&theme=radical&hide=c,cpp&cache_seconds=1800)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshita-24&theme=radical)
 
@@ -56,7 +55,7 @@
 | Project                                 | Tech Stack                                 | Description                                               |
 |-----------------------------------------|--------------------------------------------|-----------------------------------------------------------|
 | **ShopLens**                            | React, NodeJS, ExpressJS, Postman, MongoDB | AI-powered visual product recommendation system           |
-| **Customer Support Ticket Generating System** | MERN, Socket.IO, MongoDB                  | Real-time support system with ticketing and chat features |
+| **Customer Support Ticket System**      | MERN, Socket.IO, MongoDB                   | Real-time support system with ticketing and chat features |
 | **Crocodile Chronicles**                | HTML, CSS, JavaScript, Leaflet             | A fun and educational game-based web project              |
 
 ---
