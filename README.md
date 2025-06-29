@@ -34,6 +34,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-000000?style=for-the-badge&logo=leetcode)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ---
 
@@ -50,23 +53,17 @@
 
 ---
 
-### 🚀 Just the Big Ones — for Now
-
-| Project                                 | Tech Stack                                 | Description                                               |
-|-----------------------------------------|--------------------------------------------|-----------------------------------------------------------|
-| **ShopLens**                            | React, NodeJS, ExpressJS, Postman, MongoDB | AI-powered visual product recommendation system           |
-| **Customer Support Ticket System**      | MERN, Socket.IO, MongoDB                   | Real-time support system with ticketing and chat features |
-| **Crocodile Chronicles**                | HTML, CSS, JavaScript, Leaflet             | A fun and educational game-based web project              |
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshita-24&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🤝 Connect With Me
+### 📌 Reach Out
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshita-shrivastava-73a07929a)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshitaa.shrivastava2005@gmail.com)
 
 ---
 
-### 💬 Quote to Live By
+### 💬✍️
 > **"Every project is a page in my journey — and I’m still writing."**
 
 ---
