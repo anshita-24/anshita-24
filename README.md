@@ -49,10 +49,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshita-24&theme=radical)
 
-
-
----
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshita-24&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
