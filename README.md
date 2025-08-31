@@ -52,6 +52,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshita-24&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+### 🏅 Certifications & Badges
+
+[![Postman Student Expert](https://api.badgr.io/public/assertions/CsAzd0n6SH-BrCV7CErvMg/image)](https://badgr.com/public/assertions/CsAzd0n6SH-BrCV7CErvMg)
+
+---
 
 ### 📌 Reach Out
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshita-shrivastava-73a07929a)
