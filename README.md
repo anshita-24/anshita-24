@@ -1,10 +1,12 @@
+
 <!-- Typing SVG -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=100&color=0A66C2&center=true&vCenter=true&width=700&lines=Hey%20there%20%F0%9F%91%8B%2C%20I'm%20Anshita!;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBTech%20Enthusiast%20%26%20Creative%20Mind" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=100&color=0A66C2&center=true&vCenter=true&width=700&lines=Hey%20there%20%F0%9F%91%8B;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBTech%20Enthusiast%20%26%20Creative%20Mind" 
     alt="Typing SVG" 
   />
 </h1>
+
 
 
 ---
@@ -42,7 +44,8 @@
 
 ### 📊 GitHub Stats & Visuals
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshita-24&show_icons=true&theme=radical&hide=c,cpp&include_all_commits=true&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshita-24&show_icons=true&theme=radical&hide=c,cpp&include_all_commits=true&cache_seconds=1800&hide_title=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshita-24&layout=compact&theme=radical&hide=c,cpp&cache_seconds=1800)  
 
@@ -54,12 +57,6 @@
 
 ---
 
-
-### 📌 Reach Out
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshita-shrivastava-73a07929a)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshitaa.shrivastava2005@gmail.com)
-
----
 
 ### 💬✍️
 > **"Every project is a page in my journey — and I’m still writing."**
