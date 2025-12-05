@@ -44,14 +44,14 @@
 
 ### 📊 GitHub Stats & Visuals
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshita-24&show_icons=true&theme=radical&hide=c,cpp&include_all_commits=true&cache_seconds=1800&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaireadForge&show_icons=true&theme=radical&hide=c,cpp&include_all_commits=true&cache_seconds=1800&hide_title=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshita-24&layout=compact&theme=radical&hide=c,cpp&cache_seconds=1800)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaireadForge&layout=compact&theme=radical&hide=c,cpp&cache_seconds=1800)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshita-24&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaireadForge&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshita-24&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaireadForge&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Postman Student Expert](https://api.badgr.io/public/assertions/CsAzd0n6SH-BrCV7CErvMg/image)](https://badgr.com/public/assertions/CsAzd0n6SH-BrCV7CErvMg)
 
