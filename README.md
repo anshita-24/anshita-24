@@ -6,6 +6,12 @@
     alt="Typing SVG" 
   />
 </h1>
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=MaireadForge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
 
 
 
